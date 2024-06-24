@@ -1,0 +1,87 @@
+.btn-comm {
+	background: #000;
+	color: #fff;
+	text-align: center;
+	padding: 5px 25px;
+	border-radius: 5px;
+	box-shadow: unset;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+input {
+	width: 100%;
+	background: transparent;
+	padding: 5px 10px;
+	border: 1px solid #ddd;
+}
+
+.page-section {
+	width: 100%;
+	padding: 30px 0;
+}
+
+.form-box {
+	width: 60%;
+	max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 20px;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #000;
+	color: #fff;
+	padding: 10px 20px;
+}
+
+header h2 {
+	font-size: 25px;
+}
+
+header nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+header nav ul a {
+	color: #fff;
+	display: block;
+	padding: 5px;
+}
+
+.error-text {
+	display: block;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.post-box {
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 15px;
+}
+
+.post-title {
+	font-size: 18px;
+}
+
+.btn-emojis {
+	background: transparent;
+	border: 0;
+}
